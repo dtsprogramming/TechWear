@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8059470534272464574}
   - component: {fileID: 4795724991071575183}
   m_Layer: 0
-  m_Name: SpawnTrigger
+  m_Name: FFAC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,4 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aa0216d5de99b54cb264318dcb082f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 8068736276114468595, guid: c294f825ab4a6e747ae45953de903be1, type: 3}
+  prefab: {fileID: 8257702967856419467, guid: 6bebb09dec1ed394f8e524dc5e58d2f8, type: 3}

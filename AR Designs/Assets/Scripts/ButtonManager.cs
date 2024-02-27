@@ -3,8 +3,6 @@ using UnityEngine.SceneManagement;
 
 public class ButtonManager : MonoBehaviour
 {
-    [SerializeField] private GameObject prefab;
-
     public void ExitProgram()
     {
         Application.Quit();
