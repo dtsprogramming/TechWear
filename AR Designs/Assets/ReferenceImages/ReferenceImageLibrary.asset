@@ -28,12 +28,12 @@ MonoBehaviour:
     m_Name: Raptor
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5614720938667944210
-      m_GuidHigh: 14533810735799748750
+      m_GuidLow: 5510117430057530922
+      m_GuidHigh: 3709146068845156543
     m_SerializedTextureGuid:
-      m_GuidLow: 12381648378297735397
-      m_GuidHigh: 9702098984600846985
+      m_GuidLow: 14056905416961092601
+      m_GuidHigh: 11271940350441764299
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: FFAC
+    m_Name: Wings
     m_Texture: {fileID: 0}
